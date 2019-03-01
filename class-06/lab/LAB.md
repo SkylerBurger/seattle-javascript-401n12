@@ -7,7 +7,7 @@ The goal for this lab is to get your hands dirty in using an API, setting up a s
 ### JSON API Server
 * [Watch this demo](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server) // Skyler 190301
 * Implement an API server for a storefront, using json-server
-  * Install `json-server` globally
+  * Install [`json-server`](https://www.npmjs.com/package/json-server) globally
   * Create a new repository called "simple-api"
   * Create a folder called `data` with a `db.json` file
   * Start json-server from within the `simple-api` folder and "watch" your database file
