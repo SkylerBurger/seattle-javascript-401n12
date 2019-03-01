@@ -5,6 +5,7 @@ The goal for this lab is to get your hands dirty in using an API, setting up a s
 
 ## Assignments
 ### JSON API Server
+* [Watch this demo](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
 * Implement an API server for a storefront, using json-server
   * Install `json-server` globally
   * Create a new repository called "simple-api"
