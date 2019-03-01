@@ -28,9 +28,8 @@ Implement a Web Server with express and ejs
   * Use 'ejs' as your 'view engine'
   * Implement your page views as you see fit
   * Implement 2 get routes that will use `superagent` to fetch data from your API
-  * /
-    * Home Page
-        * Lists each category and draws a link to a detail page (/category/:name)
+  * /home
+    * Lists each category and draws a link to a detail page (/category/:name)
   * /category/:name
     * Lists the products in the category
 
@@ -55,5 +54,5 @@ Alter json-server to produce proper standardized API output
 
 Run your server against someone else's API
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the [lab-instructions.md](../../reference/lab-instructions.md) for the complete lab submission process and expectations
